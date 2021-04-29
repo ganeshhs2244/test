@@ -1,1 +1,7 @@
 
+<<<<<<< HEAD
+=======
+hii 2nd user is editing in project
+
+Hii B is doing 2nd change in code
+>>>>>>> parent of 7221392 (B is on 3rd commit)
